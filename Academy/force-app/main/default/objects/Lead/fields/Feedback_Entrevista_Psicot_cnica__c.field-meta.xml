@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Feedback_Entrevista_Psicot_cnica__c</fullName>
+    <description>describa detalles de la entrevista psicotécnica del candidato</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Notas y/o comentarios de la entrevista</inlineHelpText>
+    <label>Feedback Entrevista Psicotécnica</label>
+    <length>255</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
